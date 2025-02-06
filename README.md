@@ -9,9 +9,14 @@ Design and implementation of control systems for a Triangle Balance Robot in the
 ## Progress
 
 <p align="center">
-  <img src="assets/progress.png" width="3000"><br>
+  <img src="assets/progress.png" width="500"><br>
 </p>
 
 ## Team
 
 1. Himanshu Paudel
+
+## References
+
+1. Fantoni, Lozano - Non-linear Control for Underactuated Mechanical Systems (2002)
+2. Block, Åström, Spong - The Reaction Wheel Pendulum (2007)
